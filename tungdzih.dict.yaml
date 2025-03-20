@@ -347,12 +347,62 @@ use_preset_vocabulary: true
 耳	eer	100%
 爾	eer	100%
 邇	eer	100%
+䋙	eer	100%
+尒	eer	100%
+尔	eer	100%
+洱	eer	100%
+迩	eer	100%
+鉺	eer	100%
+駬	eer	100%
+𨒛	eer	100%
+𪕔	eer	100%
 摁	enn	100%
 而	er	100%
 兒	er	100%
+䎠	er	100%
+咡	er	100%
+唲	er	100%
+婼	er	100%
+峏	er	100%
+栭	er	100%
+洏	er	100%
+耏	er	100%
+胹	er	100%
+誀	er	100%
+輀	er	100%
+陑	er	100%
+陾	er	100%
+髵	er	100%
+鮞	er	100%
+鴯	er	100%
+𠒆	er	100%
+𣚊	er	100%
+𦓒	er	100%
+𦠌	er	100%
+𨎪	er	100%
+𨼏	er	100%
+𩰴	er	100%
 餌	err	100%
 二	err	100%
 貳	err	100%
+㛅	err	100%
+䎶	err	100%
+䏪	err	100%
+䣵	err	100%
+佴	err	100%
+刵	err	100%
+咡	err	100%
+弍	err	100%
+樲	err	100%
+毦	err	100%
+洱	err	100%
+珥	err	100%
+眲	err	100%
+衈	err	100%
+誀	err	100%
+髶	err	100%
+𦖢	err	100%
+𩱓	err	100%
 訪	fag	100%
 諷	fug	100%
 副	fuh	100%
@@ -32205,6 +32255,7 @@ use_preset_vocabulary: true
 多數	do sruh
 多種	do jog
 惡少	oc shaw
+二人轉	err ren dyuann	100%
 二人轉	rih ren dyuann
 番号	fan haw
 番禺	pon qiu
@@ -32254,6 +32305,7 @@ use_preset_vocabulary: true
 觀前街	cuonn dzien ceai
 觀望	cuon vaq
 觀衆	cuon juq
+莞爾	huaan eer	100%
 莞爾	huaan rii
 冠詞	cuonn szi
 冠軍	cuonn ciun
@@ -32523,7 +32575,9 @@ use_preset_vocabulary: true
 乾脆	con tsuey
 乾等	con deg
 乾爹	con dye
+乾兒	con er	100%
 乾兒	con ri
+乾兒子	con er zii	100%
 乾兒子	con ri zii
 乾飯	con fvaan
 乾粉	con feen
@@ -32601,6 +32655,7 @@ use_preset_vocabulary: true
 上諭	zhaq yuh
 芍藥	zhoc yoc
 少衝	shaw chong
+少兒	shaw er	100%
 少兒	shaw ri
 少量	shao liaq
 少年	shaw nien
