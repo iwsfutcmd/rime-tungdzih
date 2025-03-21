@@ -71,6 +71,12 @@ speller:
     - derive/([aoeu])[ey]$/$1i/
     - derive/([aoe])[ow]$/$1u/
     - derive/([aoeui])[gq]$/$1ng/
+    # 拼字錯誤
+    - derive/(dh|d|t)y([mpntgqc])/$1yi$2/
+    - derive/(dh|d|t)yy([mn])/$1yii$2/
+    - derive/^er$/ri/
+    - derive/^eer$/rii/
+    - derive/^err$/rih/
     # 簡拼
     - abbrev/^([a-z]).+$/$1/
     - abbrev/^([bpmfvdtnlczsjckgqxhyw]?[hryvsz]y?).+$/$1/

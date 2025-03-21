@@ -785,7 +785,6 @@ use_preset_vocabulary: true
 宜	qi
 皮	bhi
 提	zhi
-兒	ri
 離	li
 疵	dzi
 貲	zi
@@ -866,7 +865,6 @@ use_preset_vocabulary: true
 輜	tri
 其	gi
 詩	shi
-而	ri
 欺	ki
 姬	ci
 詞	szi
@@ -1888,7 +1886,6 @@ use_preset_vocabulary: true
 邐	lii
 躧	srii
 𢔌	bii
-爾	rii
 渳	mii
 婢	bhii
 侈	chii
@@ -1955,7 +1952,6 @@ use_preset_vocabulary: true
 以	yii
 似	szii
 史	srii
-耳	rii
 里	lii
 枲	sii
 始	shii
@@ -2871,7 +2867,6 @@ use_preset_vocabulary: true
 臮	gih
 悸	guy
 翠	tsuy
-二	rih
 恣	zih
 次	tsih
 懿	ih
@@ -2905,7 +2900,6 @@ use_preset_vocabulary: true
 吏	lih
 字	dzih
 眙	tyih
-餌	rih
 駛	srih
 廁	trih
 異	yih
@@ -3921,7 +3915,6 @@ use_preset_vocabulary: true
 質	jit
 日	rit
 實	djit
-秩	dhyit
 悉	sit
 一	it
 七	tsit
@@ -3931,9 +3924,7 @@ use_preset_vocabulary: true
 逸	yit
 詰	kit
 欯	xit
-抶	tyit
 栗	lit
-窒	dyit
 疾	dzit
 㓼	trit
 失	shit
@@ -4382,8 +4373,6 @@ use_preset_vocabulary: true
 溼	ship
 㗱	zip
 及	gip
-蟄	dhyip
-縶	dyip
 立	lip
 急	cip
 岌	qip
@@ -4393,7 +4382,6 @@ use_preset_vocabulary: true
 吸	xip
 戢	drip
 邑	ip
-湁	tyip
 煜	yip
 熠	yip
 孨	nip
@@ -6870,7 +6858,6 @@ use_preset_vocabulary: true
 赤	chiec	
 𠧚	chiec	
 杘	tyih	
-抶	tyit	
 迣	jey	
 勅	tyec	
 㽚	tyec	
@@ -6892,13 +6879,10 @@ use_preset_vocabulary: true
 訵	tyi	
 訵	tyih	
 啻	shih	
-湁	tyip	
 𢜳	chey	
 㓼	trit	
 㓼	trii	
-雴	tyip	
 跮	tyih	
-跮	tyit	
 傺	tyey	
 痸	chey	
 𠞩	trit	
@@ -8366,7 +8350,6 @@ use_preset_vocabulary: true
 簟	dhieem	
 癜	dienn	
 𩅀	diemm	
-𩅀	dyip	
 𪑩	dhienn	
 㶘	dhieem	
 驔	dhieem	
@@ -8441,11 +8424,9 @@ use_preset_vocabulary: true
 𨓊	diep	
 𥑇	dhiet	
 眣	dhiet	
-眣	tyit	
 眣	dyat	
 𠲷	diep	
 瓞	dhiet	
-㲳	dyit	
 戜	dhiet	
 啑	srap	
 啑	dey	
@@ -9123,67 +9104,14 @@ use_preset_vocabulary: true
 䭡	unn	
 鞥	op	
 儿	ren	
-而	ri	
 兒	qei	2%
-兒	ri	
-𠒆	ri	
-陑	ri	
 耏	nay	
-耏	ri	
-咡	ri	
-咡	rih	
-峏	ri	
 䎠	huon	
-䎠	ri	
 䎠	no	
-洏	ri	
-栭	ri	
-胹	ri	
-𦓒	ri	
-唲	ri	
-輀	ri	
-𨼏	ri	
-髵	ri	
-𩰴	ri	
-𦠌	ri	
-鴯	ri	
-鮞	ri	
 鮞	ruc	
-𨎪	ri	
-尒	rii	
-尔	rii	
-耳	rii	
-𨒛	rii	
-迩	rii	
-洱	rih	
-洱	rii	
-珥	rih	
-毦	rih	
-衈	rih	
-䋙	rii	
-爾	rii	
-鉺	rii	
-餌	rih	
-駬	rii	
 薾	nee	
-邇	rii	
-𪕔	rii	
-𩱓	rih	
-二	rih	
-弍	rih	
-刵	rih	
 佴	nay	
-佴	rih	
-㛅	rih	
-䏪	rih	
-䎶	rih	
-貳	rih	
-䣵	rih	
 䣵	nih	
-誀	ri	
-誀	rih	
-𦖢	rih	
-樲	rih	
 發	fat	
 廢	fey	
 橃	fvat	
@@ -18457,7 +18385,6 @@ use_preset_vocabulary: true
 㕯	nuat	
 㕯	nut	
 𣧍	nut	
-眲	rih	
 眲	naec	
 訥	nut	
 䎪	nec	
@@ -21323,7 +21250,6 @@ use_preset_vocabulary: true
 㭁	req	
 礽	reng	
 䚮	reng	
-陾	ri	
 陾	neo	
 芿	req	
 日	rit	
@@ -21364,7 +21290,6 @@ use_preset_vocabulary: true
 𥎂	rong	
 𤮇	yong	
 褣	yong	
-髶	rih	
 髶	rong	
 駥	rung	
 融	yung	
@@ -21530,7 +21455,6 @@ use_preset_vocabulary: true
 蝡	ruaan	
 蝡	ruun	
 緛	ruaan	
-𣚊	ri	
 輭	ruaan	
 䞂	ruaan	
 甤	rue	
@@ -21584,7 +21508,6 @@ use_preset_vocabulary: true
 焫	rot	
 
 婼	re	
-婼	ri	
 婼	tyoc	
 楉	roc	
 蒻	roc	
@@ -23379,7 +23302,6 @@ use_preset_vocabulary: true
 𪘁	tap	
 䳴	dhap	
 譶	dhap	
-譶	dhyip	
 𤒻	dhap	
 躢	dhap	
 𧮑	dhap	
@@ -25557,7 +25479,6 @@ use_preset_vocabulary: true
 盻	pann	
 咥	dhiet	
 咥	diet	
-咥	tyit	
 係	cey	
 㣟	xit	
 郤	kiec	
@@ -28132,7 +28053,6 @@ use_preset_vocabulary: true
 泆	dhiet	
 泆	yit	
 䘝	yic	
-妷	dhyit	
 㣇	dhey	
 㣇	yih	
 𠡝	qit	
@@ -28142,7 +28062,6 @@ use_preset_vocabulary: true
 昳	dhiet	
 㑜	ey	
 㑜	tyey	
-俋	dhyip	
 㹭	ey	
 弈	yec	
 奕	yec	
@@ -30321,7 +30240,6 @@ use_preset_vocabulary: true
 折	jet	
 折	dhei	10%
 折	zhet	50%
-㞏	dhyip	
 矺	dap	
 矺	toc	
 矺	dyaec	
@@ -30351,11 +30269,9 @@ use_preset_vocabulary: true
 樀	dhiec	
 樀	diec	
 磔	dyaec	
-䐲	dhyip	
 㯙	dhyet	
 𨵊	jret	
 𥧮	dyaec	
-蟄	dhyip	
 䊞	dyaec	
 嚞	dyet	
 謺	jep	
@@ -30675,7 +30591,6 @@ use_preset_vocabulary: true
 直	dhyec	
 侄	jit	
 姪	dhiet	
-姪	dhyit	
 值	dhyih	
 值	dhyec	
 埴	chih	
@@ -30695,8 +30610,6 @@ use_preset_vocabulary: true
 稙	dyec	
 墌	jiec	
 摭	jiec	
-𩢏	dyip	
-漐	tyip	
 慹	jep	
 慹	jip	
 慹	niep	
@@ -30705,12 +30618,8 @@ use_preset_vocabulary: true
 樴	jic	
 樴	dhec	
 㙷	dhyep	
-㙷	dhyip	
-縶	dyip	
 𥋏	jic	
-𧽮	dhyit	
 職	jic	
-𡂣	dyip	
 蹠	jiec	
 蹢	dhyec	
 蹢	diec	
@@ -30772,28 +30681,23 @@ use_preset_vocabulary: true
 豸	dhyii	
 忮	jih	
 郅	jit	
-帙	dhyit	
 制	jey	
 炙	jeh	
 炙	jiec	
 治	dhyi	
 治	dhyih	
 治	dhyih	2%
-挃	dyit	
 𦭮	dhyey	
 柣	tsiet	
-柣	dhyit	
 𦤶	dyih	
 峙	dhyii	
 庤	dhyii	
-庢	dyit	
 陟	dyec	
 䓌	jih	
 桎	jit	
 致	dyih	
 歭	dhyii	
 晊	jit	
-秩	dhyit	
 胵	chi	
 狾	jey	
 㝂	jey	
@@ -30805,22 +30709,14 @@ use_preset_vocabulary: true
 畤	jii	
 畤	dhyii	
 畤	zhii	
-𥎹	dyit	
-秷	dyit	
 㣥	dhyii	
-𦤻	dyit	
 猘	cey	
 䚳	jih	
-袠	dhyit	
 痔	dhyii	
 窒	diet	
-窒	dyit	
-翐	dhyit	
-紩	dhyit	
 𧙁	drih	
 蛭	jit	
 蛭	diet	
-蛭	dyit	
 𦜗	jey	
 智	dyih	
 𥠈	drit	
@@ -30861,30 +30757,23 @@ use_preset_vocabulary: true
 䎺	jey	
 疐	dey	
 疐	dyih	
-𡙮	dhyit	
-𢧤	dhyit	
 㗧	diet	
-㗧	dyit	
 製	jey	
 銍	jit	
-銍	dyit	
 𧳋	dhyae	
 誌	jih	
 滯	dhyey	
 𡮞	dyec	
-𣗻	dhyit	
 𢴧	dhyih	
 摯	jih	
 𩊞	jih	
 𩊝	jih	
-𨖹	dyit	
 幟	chih	
 幟	shih	
 𣉻	dyih	
 稺	dhyih	
 質	jit	
 質	dyih	50%
-膣	dyit	
 潪	dhyec	
 潪	dyih	
 駤	dyih	
@@ -30906,7 +30795,6 @@ use_preset_vocabulary: true
 擲	dhyec	
 櫛	drit	
 䞃	dyih	
-螲	dyit	
 劕	jit	
 䚦	dhyii	
 懥	jih	
@@ -30932,12 +30820,10 @@ use_preset_vocabulary: true
 𦥐	dhyih	
 礩	jih	
 礩	jit	
-豑	dhyit	
 鶨	dhunn	
 鶨	tyuann	
 騺	dyih	
 𪗻	dhiet	
-𪗻	dyit	
 𨆫	dyih	
 𩹈	dhyih	
 鷙	jih	
@@ -32256,7 +32142,6 @@ use_preset_vocabulary: true
 多種	do jog
 惡少	oc shaw
 二人轉	err ren dyuann	100%
-二人轉	rih ren dyuann
 番号	fan haw
 番禺	pon qiu
 反覆	faan fuc
@@ -32306,7 +32191,6 @@ use_preset_vocabulary: true
 觀望	cuon vaq
 觀衆	cuon juq
 莞爾	huaan eer	100%
-莞爾	huaan rii
 冠詞	cuonn szi
 冠軍	cuonn ciun
 冠以	cuonn yii
@@ -32576,9 +32460,7 @@ use_preset_vocabulary: true
 乾等	con deg
 乾爹	con dye
 乾兒	con er	100%
-乾兒	con ri
 乾兒子	con er zii	100%
-乾兒子	con ri zii
 乾飯	con fvaan
 乾粉	con feen
 乾旱	con hoon
@@ -32656,7 +32538,6 @@ use_preset_vocabulary: true
 芍藥	zhoc yoc
 少衝	shaw chong
 少兒	shaw er	100%
-少兒	shaw ri
 少量	shao liaq
 少年	shaw nien
 少商	shaw shang
